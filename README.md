@@ -283,7 +283,7 @@ It outputs like:
 Follow these steps:
 
 1. Run `sudo mv (SQL Developer Path) /opt/`
-replace `(SQL Developer Path)` with result of `dirname "$(find ~ -name 'sqldeveloper.sh' 2>/dev/null)"`
+> replace `(SQL Developer Path)` with result of `dirname "$(find ~ -name 'sqldeveloper.sh' 2>/dev/null)"`
 i.e. make it `sudo mv /home/$USER/Downloads/sqldeveloper-24.3.1.347.1826-no-jre/sqldeveloper /opt/`
 
 2. Then run `sudo chmod -R 755 /opt/sqldeveloper`
