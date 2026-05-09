@@ -26,7 +26,7 @@
 
 ---
 
-> - This guide is used for Windows/Linux only (as there is no **Oracle Database XE** for macOS)
+> - This guide is used for Linux only.
 
 ---
 
