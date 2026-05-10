@@ -155,7 +155,7 @@ extract it & open it
 
 ---
 
-### Step 9 (Ubuntu/Debian-Based OS): Open **SQL Developer** & Configure It
+### Step 7 (Ubuntu/Debian-Based OS): Open **SQL Developer** & Configure It
 
 follow the photos:
 
@@ -183,7 +183,7 @@ Press "Connect".
 
 ---
 
-### Step 10 (Windows): Add Your "HR Schema"
+### Step 8 (Windows): Add Your "HR Schema"
 
 Add the schema [hr_schema.txt](../DBSchema/hr_schema.txt) in SQL Developer:
 
