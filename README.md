@@ -19,6 +19,30 @@
 
 ---
 
+## 🗂️ Repository Structure
+```
+cs307-oracle-sql-setup-guide
+├── DBSchema
+│   └── hr_schema.txt
+├── Guides
+│   ├── LINUX_README.md
+│   └── WINDOWS_README.md
+├── LICENSE
+├── README.md
+└── readme-photos
+    ├── Step_1_Photo_3.png
+    ├── Step_1_Photo_4.png
+    ├── Step_1_Photo_6.png
+    ├── Step_1_Photo_7.png
+    ├── Step_1_Photo_9.png
+    ├── Step_1_Photo_a.png
+    ├── Step_1_Photo_b.png
+    ├── Step_1_Photo_c.png
+    └── Step_1_Photo_d.png
+```
+
+---
+
 ## Requirements
 
 - Java 17 till 21 (after that may fail, before that will make errors)
