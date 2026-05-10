@@ -31,8 +31,8 @@
 
 ### Step 1 (Windows): download **Oracle Database XE**
 
-download it from this link [Oracle Database 21c (XE) Download](https://download.oracle.com/otn-pub/otn_software/db-express/OracleXE213_Win64.zip)
-extract it & install it 
+- download it from this link [Oracle Database 21c (XE) Download](https://download.oracle.com/otn-pub/otn_software/db-express/OracleXE213_Win64.zip)
+- extract it & install it 
 
 ---
 
@@ -150,8 +150,8 @@ In summary:
 
 ### Step 6 (Windows): Install **SQL Developer included with JDK 17**
 
-download it from this link [SQL Developer (with JDK 17) Download](https://download.oracle.com/otn_software/java/sqldeveloper/sqldeveloper-24.3.1.347.1826-x64.zip)
-extract it & open it
+- download it from this link [SQL Developer (with JDK 17) Download](https://download.oracle.com/otn_software/java/sqldeveloper/sqldeveloper-24.3.1.347.1826-x64.zip)
+- extract it & open it
 
 ---
 
