@@ -195,7 +195,7 @@ Paste the content of our schema into SQL Developer, then press `F5`.
 
 ---
 
-### Step 11 (Windows): Let's Test Our Database
+### Step 9 (Windows): Let's Test Our Database
 
 Write `SELECT * FROM employees` like this:
 
