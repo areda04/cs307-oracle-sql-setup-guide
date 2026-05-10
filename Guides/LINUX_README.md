@@ -19,6 +19,19 @@
 
 ---
 
+## Archive Notice
+As of 10-May-2026, This repository is officially considered archived until further notice.
+
+I reserve all rights to this project and any future continuations or spin-offs.
+
+No updates or support will be provided, but the repository will remain archived publicly.
+
+This notice does NOT change the MIT license of this project.
+
+I wish to thank everyone for the usage during & after the lifetime of this project. Thanks to users for everything.
+
+---
+
 ## Requirements
 
 - Java 17 till 21 (after that may fail, before that will make errors)
